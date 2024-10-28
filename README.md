@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanagajui
 - 👀 I’m interested in AI and ML.
-- 🌱 I’m currently learning Python and Pytorch.
+- 🌱  Python and Pytorch.LLMs
 - 💞️ I’m looking to collaborate on AI projects that help improve education.
 - 📫 How to reach me I am reachable on Linkedin
 - 😄 Pronouns: He/Him
