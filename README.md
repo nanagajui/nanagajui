@@ -8,19 +8,19 @@ I'm an AI Engineering Manager helping small businesses thrive by making AI under
 
 - 🧠 **AI Adoption for SMEs**  
   I run programs to help businesses identify opportunities, prototype solutions, and integrate AI into daily operations.  
-  LangChain, OpenAI APIs, crewai.
+  
 
 - 🛠️ **Engineering Leadership**  
   I manage a team using Agile methodologies, story points, and sprint reviews with visible metrics like burndown charts and blockers.
 
 - 🚀 **Prototyping & Development**  
-  Some examples in the repos
+  Some examples in the repos - LangChain, OpenAI APIs, crewai.
 
 ---
 
-## 🧰 Current Focus
+## 🧰 Current Focus / hobby 
 
-- Making proprietary info accessible via Retrieval-Augmented Generation (RAG)
+- Agentic Document Generation for AI Business Plans
 - Visual dashboards to improve engineering flow and team awareness
 - Leveraging old hardware (e.g., iPads) for smart, useful displays
 - Building lightweight AI tools for businesses without data science teams
