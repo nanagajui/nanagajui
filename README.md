@@ -8,14 +8,13 @@ I'm an AI Engineering Manager helping small businesses thrive by making AI under
 
 - 🧠 **AI Adoption for SMEs**  
   I run programs to help businesses identify opportunities, prototype solutions, and integrate AI into daily operations.  
-  Tools: RAG pipelines, LangChain, OpenAI APIs, crewai. Agentic Coding
+  LangChain, OpenAI APIs, crewai.
 
 - 🛠️ **Engineering Leadership**  
   I manage a team using Agile methodologies, story points, and sprint reviews with visible metrics like burndown charts and blockers.
 
-- 🚀 **Prototyping & Deployment**  
-  Lots of past functional software experience and process automation - ETLs etc.
-  Interested in edge computing, LAN-based model serving, ML with practical solutions that fit real constraints.
+- 🚀 **Prototyping & Development**  
+  Some examples in the repos
 
 ---
 
@@ -30,8 +29,8 @@ I'm an AI Engineering Manager helping small businesses thrive by making AI under
 
 ## 📂 Featured Projects
 
-— Agent PRD - Fast setup CLI for AI coding agents projects (Uses CrewAI)
-- SketchMix - Fun tool for art music and AI
+- Agentic PRD - https://github.com/nanagajui/agentic_prd Fast setup CLI for AI coding agents projects (Uses CrewAI)
+- SketchMix - https://github.com/nanagajui/sketchmix Fun tool for art music and AI
 - Process Model Weaver  / BPMN Generator  https://github.com/nanagajui/process-model-weaver A BPMN 2.0 model generator
 - tinkering with multi-machine LLM inference via LAN (AMD + NVIDIA)
 
