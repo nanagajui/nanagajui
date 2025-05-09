@@ -1,9 +1,57 @@
-- 👋 Hi, I’m @nanagajui
-- 👀 I’m interested in AI and ML.
-- 🌱  Blog - see  https://r.mtdv.me/blog/posts/2BrAkXTUM7
-- 💞️ I’m looking to collaborate on AI projects that help improve education.
-- 📫 How to reach me I am reachable on Linkedin
-- 😄 Pronouns: He/Him
+# 👋 Hi, I'm Jon
+
+I'm an AI Engineering Manager helping small businesses thrive by making AI understandable, accessible, and actionable. I lead projects that translate cutting-edge research into real-world tools, with a focus on delivering value quickly and sustainably.
+
+---
+
+## 🔧 What I Do
+
+- 🧠 **AI Adoption for SMEs**  
+  I run programs to help businesses identify opportunities, prototype solutions, and integrate AI into daily operations.  
+  Tools: RAG pipelines, LangChain, OpenAI APIs, crewai. Agentic Coding
+
+- 🛠️ **Engineering Leadership**  
+  I manage a team using Agile methodologies, story points, and sprint reviews with visible metrics like burndown charts and blockers.
+
+- 🚀 **Prototyping & Deployment**  
+  Lots of past functional software experience and process automation - ETLs etc.
+  Interested in edge computing, LAN-based model serving, ML with practical solutions that fit real constraints.
+
+---
+
+## 🧰 Current Focus
+
+- Making proprietary info accessible via Retrieval-Augmented Generation (RAG)
+- Visual dashboards to improve engineering flow and team awareness
+- Leveraging old hardware (e.g., iPads) for smart, useful displays
+- Building lightweight AI tools for businesses without data science teams
+
+---
+
+## 📂 Featured Projects
+
+— Agent PRD - Fast setup CLI for AI coding agents projects (Uses CrewAI)
+- SketchMix - Fun tool for art music and AI
+- Process Model Weaver  / BPMN Generator  https://github.com/nanagajui/process-model-weaver A BPMN 2.0 model generator
+- tinkering with multi-machine LLM inference via LAN (AMD + NVIDIA)
+
+(Coming soon – or DM me if you'd like a preview.)
+
+---
+
+## 💬 Let's Talk
+
+Whether you're:
+- Exploring AI for your business
+- Leading an engineering team and want to level up delivery
+- Interested in edge AI or practical deployments
+
+Reach out or check out what I’m building!
+
+📫 **Connect**: [LinkedIn](https://linkedin.com/in/jonathonread) 
+---
+
+> “Start simple. Deliver value. Scale smart.”
 
 
 <!---
